@@ -5,7 +5,7 @@ import fitz  # PyMuPDF
 # === Hugging Face Setup ===
 NLI_MODEL = "facebook/bart-large-mnli"
 
-HEADERS = {"Authorization": "Bearer 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"}  # Replace with your token
+HEADERS = {"Authorization": "Bearer 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"}  # Replace with your token
 
 # === Skill Sets by Role ===
 essential_skills = {
